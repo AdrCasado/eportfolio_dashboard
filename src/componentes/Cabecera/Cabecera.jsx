@@ -3,7 +3,7 @@ const Cabecera = (props) => {
     return (
         <header>
             HEADER <b></b>
-            {props.usuario}
+            {props.user}
         </header>
     )
 
